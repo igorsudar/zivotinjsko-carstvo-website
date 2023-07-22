@@ -1,0 +1,126 @@
+
+h1 {
+    color: red;
+    text-align: center;
+}
+.topnav{
+    text-align: center;
+    background-color: #a2e30c;
+    border: dotted;
+    width: auto;
+}
+
+#tajge {
+    background-color: lightgreen;
+    color: white;
+    border: dashed;
+    width: auto;
+}
+.h2{
+    text-align: center;
+}
+.float-left{
+    text-align: left;
+    align-content: left;
+    padding-left: 5px;
+}
+.float-right{
+    text-align: right;
+    padding-right: 10px;
+}
+.float-center{
+    text-align: center;
+    padding-right: 15px;
+}
+.float-justify{
+    text-align: justify;
+    padding-block: 15px;
+    padding-right: 20px;
+}
+.naziv{
+    color:red;
+}
+.latinski_naziv{
+    color:red;
+    font-style: italic;
+}
+.responsive {
+    width: 100%;
+    height: auto;
+}
+#Planinske_četinarske_šume{
+    background-color: darkgreen;
+    color: #aba0d0;
+    width: auto;
+}
+#Listopadne_šume{
+    background-color: yellowgreen;
+    color: rgb(42, 4, 42);
+    width: auto;
+}
+#Tropske_šume{
+    background-color: rgb(9, 57, 26);
+    color: rgb(232, 245, 49);
+    width: auto;
+}
+#Stepe{
+    background-color: rgb(227, 221, 28);
+    color: #5d119c;
+    width: auto;
+}
+#Prerije{
+    background-color:  rgb(155, 61, 27);
+    width: auto;
+}
+#Pampe{
+    background-color: rgb(216, 93, 93);
+    color: #150b89;
+    width: auto;
+}
+#Savane{
+    background-color: rgb(230, 119, 119);
+    color: #bfbcdc;
+    width: auto;
+}
+#Livade{
+    background: rgb(116, 213, 52);
+    color:#ef2439;
+    width: auto;
+}
+#Reke_i_potoci{
+    background: lightblue;
+    color:#2e663b;
+    width: auto;
+}
+#Jezera_i_bare{
+    color: #a2e30c;
+    width: auto;
+}
+#Jezera_i_bare.a{
+    color: #c5ed67;
+    width: auto;
+}
+.Životinjsko_carstvo{
+    color:color-mix;
+    width: auto;
+}
+#Životinje_iz_prošlosti{
+    background-color: black;
+    color: white;
+    width: auto;
+}
+#Močvare{
+    color:blanchedalmond;
+    width: auto;
+}
+#Reke_i_potoci{
+    background-color: rgba(70, 62, 21, 0.58);
+    width: auto;
+}
+#Mora_i_okeani_-_obalna_područja{
+    color: #edbc67;
+    width: auto;
+}
+.a.clicked{
+   color:aliceblue;
+}
